@@ -1,2 +1,4 @@
 Hello World!
 This is an edit.
+This is another edit.
+This is a new feature called X
