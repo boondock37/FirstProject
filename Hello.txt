@@ -2,3 +2,7 @@ Hello World!
 This is an edit.
 This is another edit.
 This is a new feature called X
+
+New branch, based off the master.
+Assuming the master is the lcurrent live version.
+This 'upcoming_release' branch is where all new functionality will be merged into.
